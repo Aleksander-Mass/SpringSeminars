@@ -33,6 +33,7 @@ https://github.com/PavelGeekBrains/SpringSeminars
 4. на этом удаленном репозитории выполнить команду fork
 
 5. выполнил первый коммит на нем и добавил заголовок
+6. на homework
 
 
 
